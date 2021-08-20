@@ -192,7 +192,7 @@ a {
   color: #333;
 }
 .item-setting > i {
-  padding: 6px;
+  padding: 6 px;
 }
 .item-setting > i:hover {
   cursor: default;
